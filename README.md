@@ -20,7 +20,7 @@ You can install the app by downloading the .dmg file. This can be found in the r
     
 ## Authors
 
-- [@blurryfxcedride](https://www.github.com/blurryfxcedride)
+- [@bxndito](https://www.github.com/bxndito)
 
 
 
